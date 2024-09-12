@@ -1,0 +1,112 @@
+body {
+
+    margin: 0;
+    text-align: center;
+    font-family: Indie Flower, sans-serif;
+    background-size: 50;
+    font-size: large;
+}
+
+h1 {
+    margin-top: 0;
+    width: 5%;
+    margin: 50px auto 0 auto;
+    font-family: Nerko One ;
+    font-size: 60px;
+    color:rgb(104, 207, 241);
+    background-color: rgb(164, 224, 250);
+    background-size: contains;
+}
+h2 {
+    color: #66bfbf;
+    font-family: Nerko One;
+    font-size: 2.5em;
+    font-weight: normal;
+
+}
+h3 {
+    color: #11999e;
+    font-family: Indie Flower, sans-serif;
+}
+p {
+    text-align: center;
+    font-size: large;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 10px;
+    width: 10%;
+    color: #11999e;
+}
+.skill-row {
+    width: 30%;
+    margin: 100px auto 100px auto;
+    font-size: large;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 100px;
+    font-family: Indie Flower, sans-serif;
+}
+.bottom-container {
+    background-color: #E4F9F5;
+    text-align: center;
+    padding: 50px;
+
+}
+.footer-link {
+    padding: 40px 50px;
+    display: inline-block;
+    text-decoration: none;
+    color: #11999e;
+    margin-bottom: auto;
+
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+}
+.skillImage1 {
+    width: 25%;
+    float: left;
+     gap: 30px;
+}
+.skillImage2 {
+    width: 25%;
+    float: right;
+    gap: 30px;
+
+}
+
+.proff {
+    margin-top: 20px;
+    width: 200px;
+}
+
+.RAYAJ {
+    color: black;
+}
+
+.button {
+   background-color: #11999e;
+   background-image: linear-gradient(#E4F9F5,#11999e);
+   color: white;
+   text-align: center;
+   display: inline-block;
+   font-size: 30px;
+   border-radius: 8px;
+   margin: 40px auto 50px auto;
+   box-shadow: none;
+   text-decoration: none;
+   border: 100px;
+   padding: 7px 10px;
+}
